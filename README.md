@@ -1,4 +1,4 @@
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> Hi there 👋
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabarij6383@gmail.com) 
 
@@ -21,7 +21,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Sabari-sabu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+
 
 <!--
 **Sabari-sabu/Sabari-sabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

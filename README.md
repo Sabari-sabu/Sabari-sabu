@@ -1,7 +1,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> Hi there 👋
 ##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sabarij6383@gmail.com) 
-[![Linked in](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:https://www.linkedin.com/in/sabari-nathan-251720321) 
 
  
 
